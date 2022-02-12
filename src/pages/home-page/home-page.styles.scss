@@ -1,0 +1,10 @@
+@use '../../styles/base' as *;
+
+.home-page {
+    @extend %flex-center;
+    flex-direction: column;
+
+    width: 100vw;
+    min-height: calc(100vh - 5rem);
+    padding: 1rem;
+}

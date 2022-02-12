@@ -1,0 +1,24 @@
+tr {
+    height: 3rem;
+
+    cursor: pointer;
+
+    &.clicked {
+        background-color: rgb(180, 180, 180);
+    }
+
+    td {
+        text-align: center;
+        overflow-x: auto;
+        border: 1px solid black;
+
+        &.crest > img {
+            width: 5rem;
+            height: 5rem;
+        }
+    }
+
+    &:last-child {
+        border-bottom: none;
+    }
+}

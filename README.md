@@ -52,7 +52,7 @@ In the homepage of the application there is a table that displays information ab
 **Git clone**
 
 ```
-git clone https://github.com/almog-gutin/Syte-Soccer-Teams-Client-React-JS.git
+git clone https://github.com/almoggutin/Syte-Soccer-Teams-Client-React-JS.git
 ```
 
 **Instructions**
